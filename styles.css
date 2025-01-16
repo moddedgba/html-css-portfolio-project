@@ -45,6 +45,7 @@
 
 body {
     background-color: blanchedalmond;
+    font-family: Helvetica, sans-serif;
 }
 
 .grid-container {
@@ -72,7 +73,7 @@ nav {
     margin: 2em 2em 2em 2em;
 }
 
-article {
+section {
     padding: 0 1em;
     margin: 2em 2em 2em 2em;
 }
@@ -110,4 +111,8 @@ a:hover {
     background-color: #26877f;
     color: white;
     transition: 0.4s;
+}
+
+#hours {
+    padding-left: 0.5em;
 }
